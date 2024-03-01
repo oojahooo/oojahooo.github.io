@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /assets/pdf/CV/CV_Jaeho_Kim.pdf
+  - title: "PL-Wiki"
+    url: https://github.com/prosyslab/pl-wiki/wiki
